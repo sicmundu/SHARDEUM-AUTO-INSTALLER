@@ -15,7 +15,7 @@
 ## Инструкция по запуску
 1. Склонируйте репозиторий или загрузите скрипт на ваш сервер:
   ```
-  git clone https://raw.githubusercontent.com/sicmundu/SHARDEUM-AUTO-INSTALLER/main/shardeum-auto-installer.sh
+  curl -O https://raw.githubusercontent.com/sicmundu/SHARDEUM-AUTO-INSTALLER/main/shardeum-auto-installer.sh
   ```
 2. Дайте скрипту права на выполнение с помощью команды:
 ```
